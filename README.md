@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @subha-preet
+- 🌱 I’m currently learning node js
+- 📫 subhapreet@growthnatives.com
